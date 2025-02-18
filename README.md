@@ -16,18 +16,14 @@
     <th>테스트용 계정</th>
   </tr>
   <tr>
-    <td>ID : OO</td>
+    <td>ID : admin1_admin1</td>
   </tr>
   <tr>
-    <td>PW : OO</td>
+    <td>PW : password789</td>
   </tr>
 </table>
 </div>
 
-<br/><br/><br/>
-
-
-저희 테스트용으로 완벽하게 다 갖춘 계정 하나 만들어야 될 것 같아요.
 
 <br/><br/><br/>
 
@@ -45,11 +41,11 @@
 | NAME | 이동희 (팀장) | 이유나 (서기) | 장준영 | 현지윤 | 황예은 |
 |---|---|---|---|---|---|
 | |![quokka](https://github.com/wns0901/matzipWithYou/blob/develop/src/main/resources/static/IMG/quokka.svg)|![hamster](https://github.com/wns0901/matzipWithYou/blob/develop/src/main/resources/static/IMG/hamster.svg)|![pumpkin](https://github.com/wns0901/matzipWithYou/blob/develop/src/main/resources/static/IMG/slime-pumpkin-1.svg)|![penguin](https://github.com/wns0901/matzipWithYou/blob/develop/src/main/resources/static/IMG/penguin.svg)|![desertfox](https://github.com/wns0901/matzipWithYou/blob/develop/src/main/resources/static/IMG/dessert-fox.svg)|
-| Front-end | <div/># 관리자 페이지 <div/>#  | <div/># 마이페이지 <div/> └ (기여도 100%) <br> <div/># 친구 목록 <div/> └ (기여도 60%) | <div/># 자기담당 <div/># 써주세용 | <div/># 자기담당 <div/># 써주세용 | <div/># 자기담당 <div/># 써주세용 |
-| Back-end | <div/># 프로필 사진 <div/>#  | <div/># 마이페이지 <div/> └ (기여도 100%) <br> <div/># 친구 기능 <div/> └ (기여도 70%) | <div/># 자기담당 <div/># 써주세용 | <div/># 자기담당 <div/># 써주세용 | <div/># 자기담당 <div/># 써주세용 |
-| Others | <div/># 특별히 쓰고픈 점 | <div/># UX/UI <div/>#  |<div/># 특별히 쓰고픈 점|<div/># 특별히 쓰고픈 점|<div/># 특별히 쓰고픈 점|
+| Front-end | <div/># 관리자 페이지<div/> └ (기여도 100%) <br>  <div/># 로그인&회원가입&비밀번호 찾기<div/> └ (기여도 100%) <br>   <div/># 서울전체지도<div/> └ (기여도 100%) <br> <div/># 친구 목록<div/> └ (기여도 40%) <br>| <div/># 마이페이지 <div/> └ (기여도 100%) <br> <div/># 친구 목록 <div/> └ (기여도 60%) | <div/># 나의 맛집 <div/> └ (기여도 100%) <br> <div/># 친구의 맛집 <div/> └ (기여도 100%) <br>| <div/># 메인화면<div/> └ (기여도 100%) <br> <div/># 맛집 상세화면 <div/> └ (기여도 100%) <br>| <div/># 리뷰 작성<div/> └ (기여도 100%) <br> <div/># 나의 리뷰 <div/> └ (기여도 100%) <br> <div/># 위시리스트 <div/> └ (기여도 100%) <br>|
+| Back-end | <div/># 보안<div/> └ (기여도 100%) <br> <div/># 멤버(회원, 권한, 프로필 이미지)<div/> └ (기여도 100%) <br> <div/># 관리자 페이지 <div/> └ (기여도 100%) <br><div/># 친구 목록<div/> └ (기여도 40%)| <div/># 마이페이지 <div/> └ (기여도 100%) <br> <div/># 친구 목록 <div/> └ (기여도 60%) <br> <div/># 친구 관계 <div/> └ (기여도 100%)| <div/># 맛집 <div/> └ (기여도 100%) <br> <div/># 위시리스트 <div/> └ (기여도 100%) <br>| <div/># 맛집 태그 <div/> └ (기여도 100%) <br><div/># 비밀번호 찾기 <div/> └ (기여도 100%) <br><div/># 이메일 인증 <div/> └ (기여도 100%) <br>| <div/># 나의 리뷰 <div/> └ (기여도 100%) <br> |
+| Others || <div/># UX/UI ||||
 |||||||
-| Special Member | 조은교 (디자인) |||||
+| Special Member | 조은교 (컴포넌트 디자인) |||||
 ||![blue](https://github.com/wns0901/matzipWithYou/blob/develop/src/main/resources/static/IMG/slime-blue.svg)|||||
 
 
@@ -59,11 +55,10 @@
 
 <br/><br/><br/>
 # Pages
-각 페이지 캡쳐해서 올리기
-(우리 배포 버전은 아직 업뎃 안 됐어요! 업뎃 후에 캡쳐 합시다~)
 
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/>
+
 - 💡 페이지 공통사항
     - 상단의 메뉴바는 항상 고정되어 있습니다.
     - 메뉴바 좌측의 로고를 클릭하면 메인 페이지로 이동합니다.
@@ -71,8 +66,6 @@
         - 로그아웃된 상태에서는 '로그인'과 '회원가입' 버튼 표시
         - 로그인된 상태에서는 'ㅇㅇ님 환영합니다!' 및 카테고리별 페이지 표시
  <br/><br/>
-
-빠진 페이지 있으면 더 넣어주세영
 
 - 메인 페이지
     - ㅇㅇ
@@ -157,10 +150,9 @@
     - ㅇㅇ
 <br/><br/> 
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 # Skills
-이거밖에 없나요? 더 있을 거 같은데 으어어어
 
 <div align="center">
   <table border="1" style="text-align: center; border-collapse: collapse;">
@@ -208,13 +200,14 @@
 
 # 프로젝트 명
 ## MatzipWithYou / 맛집이쥬
-
+<br/><br/>
 ## Git Flow
 
 > main - 최종 배포 브렌치  
 > develop - feature 브랜치에서 작업이 끝났을 경우 기능이 합쳐지는 브랜치  
 > hotfix - 이슈 발생시 이슈 해결 브랜치  
 > feature - 각 기능 작업 브랜치
+<br/><br/>
 
 ## 커밋 메시지 컨벤션
 
@@ -230,6 +223,7 @@
 
 예제: `Feat(#이슈번호): 커밋내용`
 
+<br/><br/>
 ## 이슈 타이틀 컨벤션
 - `Struct` : 빌드 업무 수정, 패키지 매니저 수정
 - `Feat` : 새로운 기능 추가
