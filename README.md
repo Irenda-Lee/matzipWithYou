@@ -173,6 +173,15 @@
       
 <br/><br/> 
 
+# ERD(Entity Relationship Database)
+![erd](https://github.com/Irenda-Lee/matzipWithYou/blob/develop/src/main/resources/static/IMG/ERD.png)
+
+# Flowchart
+![](https://github.com/Irenda-Lee/matzipWithYou/blob/develop/src/main/resources/static/IMG/flowchart.svg)
+
+# 화면구성도
+![](https://github.com/Irenda-Lee/matzipWithYou/blob/develop/src/main/resources/static/IMG/components.svg)
+
 <br/><br/><br/>
 
 # Skills
