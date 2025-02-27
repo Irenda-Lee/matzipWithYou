@@ -41,9 +41,9 @@
 | NAME | 이동희 (팀장) | 이유나 (서기) | 장준영 | 현지윤 | 황예은 |
 |---|---|---|---|---|---|
 | |![quokka](https://github.com/wns0901/matzipWithYou/blob/develop/src/main/resources/static/IMG/quokka.svg)|![hamster](https://github.com/wns0901/matzipWithYou/blob/develop/src/main/resources/static/IMG/hamster.svg)|![pumpkin](https://github.com/wns0901/matzipWithYou/blob/develop/src/main/resources/static/IMG/slime-pumpkin-1.svg)|![penguin](https://github.com/wns0901/matzipWithYou/blob/develop/src/main/resources/static/IMG/penguin.svg)|![desertfox](https://github.com/wns0901/matzipWithYou/blob/develop/src/main/resources/static/IMG/dessert-fox.svg)|
-| Front-end | <div/># 관리자 페이지<div/> └ (기여도 100%) <br>  <div/># 로그인&회원가입&비밀번호 찾기<div/> └ (기여도 100%) <br>   <div/># 서울전체지도<div/> └ (기여도 100%) <br> <div/># 친구 목록<div/> └ (기여도 40%) <br>| <div/># 마이페이지 <div/> └ (기여도 100%) <br> <div/># 친구 목록 <div/> └ (기여도 60%) | <div/># 나의 맛집 <div/> └ (기여도 100%) <br> <div/># 친구의 맛집 <div/> └ (기여도 100%) <br>| <div/># 메인화면<div/> └ (기여도 100%) <br> <div/># 맛집 상세화면 <div/> └ (기여도 100%) <br>| <div/># 리뷰 작성<div/> └ (기여도 100%) <br> <div/># 나의 리뷰 <div/> └ (기여도 100%) <br> <div/># 위시리스트 <div/> └ (기여도 100%) <br>|
-| Back-end | <div/># 보안<div/> └ (기여도 100%) <br> <div/># 멤버(회원, 권한, 프로필 이미지)<div/> └ (기여도 100%) <br> <div/># 관리자 페이지 <div/> └ (기여도 100%) <br><div/># 친구 목록<div/> └ (기여도 40%)| <div/># 마이페이지 <div/> └ (기여도 100%) <br> <div/># 친구 목록 <div/> └ (기여도 60%) <br> <div/># 친구 관계 <div/> └ (기여도 100%)| <div/># 맛집 <div/> └ (기여도 100%) <br> <div/># 위시리스트 <div/> └ (기여도 100%) <br>| <div/># 맛집 태그 <div/> └ (기여도 100%) <br><div/># 비밀번호 찾기 <div/> └ (기여도 100%) <br><div/># 이메일 인증 <div/> └ (기여도 100%) <br>| <div/># 나의 리뷰 <div/> └ (기여도 100%) <br> |
-| Others || <div/># UX/UI ||||
+| Front-end | <div/># 관리자 페이지<div/> └ (기여도 100%) <br>  <div/># 로그인&회원가입&비밀번호 찾기<div/> └ (기여도 100%) <br>   <div/># 서울전체지도<div/> └ (기여도 100%) <br> <div/># 친구 목록<div/> └ (기여도 40%) <br>                                                                                                                                                      | <div/># 마이페이지 <div/> └ (기여도 100%) <br> <div/># 친구 목록, 친구 요청 <div/> └ (기여도 60%)                                                                                   |  <div/># 지역구 상세 지도 페이지 <div/> └ (기여도 100%) <br/> # 나의 맛집 관리 페이지 <br/> └ (기여도 100%)  <br>                                                                    | <div/># 메인화면<div/> └ (기여도 100%) <br> <div/># 위시리스트 <div/> └ (기여도 100%) <br>                                                                                          | <div/># 리뷰 작성<div/> └ (기여도 100%) <br> <div/># 나의 리뷰 <div/> └ (기여도 100%) <br> <div/># 위시리스트 <div/> └ (기여도 100%) <br>|                                                        
+| Back-end | <div/># 보안<div/> └ (기여도 100%) <br> <div/># 멤버(회원, 권한, 프로필 이미지)<div/> └ (기여도 100%) <br> <div/># 관리자 페이지 <div/> └ (기여도 100%) <br><div/># 친구 목록<div/> └ (기여도 40%)                                                                                                                                                                        | <div/># 마이페이지 <div/> └ (기여도 100%) <br> <div/># 친구 목록 및 친구기능 CRUD <div/> └ (기여도 60%) <br> <div/># 친구 관계 <div/> └ (기여도 100%)                                | <div/># 맛집, 나의 맛집 관련 CRUD <div/> └ (기여도 100%) <br>                                                                                                                      | <div/># 퀴즈 로직 <div/> └ (기여도 100%) <br><div/># 비밀번호 찾기 <div/> └ (기여도 100%) <br><div/># 이메일 인증 <div/> └ (기여도 100%) <br>                                       | <div/># 나의 리뷰 <div/> └ (기여도 100%) <br> |
+| Others || <div/># UX/UI 전반 | <div/># Selenium을 이용한 동적 크롤링 구현 <br/> # 카카오맵 api를 이용한 지도 시스템 |<div/># redis를 사용한 이메일 회원 인증 ||
 |||||||
 | Special Member | 조은교 (컴포넌트 디자인) |||||
 ||![blue](https://github.com/wns0901/matzipWithYou/blob/develop/src/main/resources/static/IMG/slime-blue.svg)|||||
@@ -209,7 +209,7 @@
       <td style="text-align: center;">Figma</td>
     </tr>
     <tr>
-      <td></td>
+      <td>Thymeleaf</td>
       <td style="text-align: center;">MySQL</td>
       <td style="text-align: center;">Google Drive</td>
     </tr>
@@ -221,6 +221,11 @@
     <tr>
       <td></td>
       <td style="text-align: center;">OAuth</td>
+      <td></td>
+    </tr>
+      <tr>
+      <td></td>
+      <td>MyBatis</td>
       <td></td>
     </tr>
   </table>
