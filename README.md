@@ -66,25 +66,28 @@
         - 로그인된 상태에서는 'ㅇㅇ님 환영합니다!' 버튼 표시
             - 클릭 시 마이페이지, 로그아웃 카테고리 표시
             - 관리자 계정의 경우 '관리자 페이지' 카테고리 표시 
- <br/><br/>
-
+ <br/><br/><br/><br/><br/>
+![main01](https://github.com/Irenda-Lee/matzipWithYou/blob/develop/figma/main01.png)
 - 메인 페이지
     - 중앙 하단의 'Start' 버튼을 누르면 서울 전체 지도로 이동합니다.
         - 로그인이 안 된 상태일 경우 로그인 페이지로 이동
         - 로그인이 완료되면 서울 전체지도로 복귀
     - 마우스 휠을 내리거나 우측 하단의 번호를 누르면 '맛집이쥬' 서비스에 대한 소개를 볼 수 있습니다.
- <br/><br/>
- 
+ <br/><br/><br/><br/>
+
+ ![register](https://github.com/Irenda-Lee/matzipWithYou/blob/develop/figma/%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.png)
 - 회원가입 페이지
     - 정보를 기입하여 일반 회원으로 가입할 수 있습니다.
     - SNS 계정을 통한 가입의 경우, 추가 정보를 기입하여 가입할 수 있습니다.
- <br/><br/>
+ <br/><br/><br/><br/>
 
+![login](https://github.com/Irenda-Lee/matzipWithYou/blob/develop/figma/login.jpg)
  - 로그인 페이지
     - SNS로 가입한 회원의 경우 상단의 SNS 버튼을 통해 해당 계정으로 로그인 합니다.  
     - 일반 회원으로 가입한 경우 ID와 PW를 입력해 로그인 합니다.
- <br/><br/>
+ <br/><br/><br/><br/>
 
+![wholemap](https://github.com/Irenda-Lee/matzipWithYou/blob/develop/figma/main02.png)
 - 서울 전체 지도 페이지
     - 최초 진입 시 내 친구들이 맛집을 작성한 모든 구역이 표시 됩니다.
       - 맛집 갯수에 비례하여 많은 지역구일수록 색상이 어두워집니다.
@@ -93,8 +96,9 @@
         - 목록 하단의 버튼을 통해 친구 페이지로 이동할 수 있습니다. 
     - 지역구를 하나 선택해 클릭하면 상세 지도로 이동합니다.
     
- <br/><br/>
+ <br/><br/><br/><br/>
 
+![inmap](https://github.com/Irenda-Lee/matzipWithYou/blob/develop/figma/main03.png)
 - 지역구 상세 페이지
     - 최초 진입 시 내 친구들이 등록한 모든 맛집이 핀으로 표시 됩니다.
     - 친구 목록에서 프로필을 선택하면 그 회원이 가진 맛집만 표시됩니다.
@@ -105,16 +109,11 @@
     - 지도에서 붉은 원으로 표시된 곳은 숨겨진 맛집이 있는 영역입니다.
         - 붉은 원을 클릭하면 그 가게에 관련된 힌트를 구매할 수 있습니다.
         - 힌트는 그 가게에 등록된 태그로 이루어져 있습니다.
-  <br/><br/>
-    
- - 리뷰 작성 페이지
-    - 상세 텍스트 입력 외에는 모두 버튼을 클릭하여 선택할 수 있습니다.
-        - 태그는 최소 3가지 이상 선택하여야 합니다.
-        - '나의 맛집'으로 등록 시 친구에게 공개되며, 미등록 선택 시 리뷰 관리 페이지에만 등록됩니다.
-        - '맛집 공개 설정'에서 숨긴 맛집 여부를 선택할 수 있으며, '비공개' 선택 시 나만 볼 수 있습니다. 
-    - '완료'를 클릭하여 리뷰를 등록할 수 있습니다.
-    <br/><br/> 
+  <br/><br/><br/><br/>
 
+
+
+![mypage](https://github.com/Irenda-Lee/matzipWithYou/blob/develop/figma/mypage01.png)
  - 마이페이지
     - 좌측의 주황색 영역은 회원 프로필 영역입니다.
         - 원형 영역은 회원의 프로필 사진 입니다. 클릭하면 이미지를 변경할 수 있습니다.
@@ -128,8 +127,13 @@
             - '친구' 카테고리 클릭 시 친구 페이지로 이동합니다.   
     - 우측의 백색 영역에서는 해당 회원의 '위시리스트', '나의 맛집', '나의 리뷰'를 최신 등록 순으로 미리 볼 수 있습니다.
         - '전체보기' 버튼을 통해 각 카테고리의 관리 페이지로 이동할 수 있습니다.
-<br/><br/>
+     
+   - 위시리스트 페이지
+        - 친구의 맛집 목록에서 내가 하트 아이콘을 눌렀던 맛집들이 모여 있습니다.
+        - 삭제 버튼을 통해 목록에서 제거할 수 있습니다.
+<br/><br/><br/><br/> <br/><br/>
 
+![friendlist](https://github.com/Irenda-Lee/matzipWithYou/blob/develop/figma/friend%20list.png)
  - 친구 페이지
     - 상단에는 친밀도가 높은 상위 3명의 친구가 표시됩니다.
     - 바로 아래에 '정렬방식' 선택 버튼과 '친구 추가/요청' 버튼이 있습니다.
@@ -141,37 +145,47 @@
         - 프로필 카드 영역에는 친구의 계정 정보와 맛집 개수가 표시됩니다.
         - 우측의 '친구삭제' 버튼을 클릭 시 경고 팝업이 뜨며 삭제 여부를 결정할 수 있습니다.
     
-<br/><br/>
+<br/><br/><br/><br/>
 
- - 위시리스트 페이지
-    - 친구의 맛집 목록에서 내가 하트 아이콘을 눌렀던 맛집들이 모여 있습니다.
-    - 삭제 버튼을 통해 목록에서 제거할 수 있습니다.
-<br/><br/> 
 
+![mymatzip](https://github.com/Irenda-Lee/matzipWithYou/blob/develop/figma/restaurant%20list%20%2Breview.png)
  - 나의 맛집 페이지
     - '나의 맛집'으로 등록된 모든 맛집의 상태를 관리할 수 있습니다.
     - 상단의 정렬 방식과 필터를 선택해 원하는 맛집을 골라볼 수 있습니다.
     - 맛집 카드에서 '상세보기' 버튼 클릭시 내가 쓴 리뷰를 볼 수 있습니다.
     - 공개 상태를 변경할 수 있습니다.
     - 삭제 버튼을 통해 목록에서 제거할 수 있습니다.
- <br/><br/> 
-
+ <br/><br/><br/><br/>
+ 
+![myreview](https://github.com/Irenda-Lee/matzipWithYou/blob/develop/figma/restaurant%20list%20%2Breview%202.png)
  - 나의 리뷰 페이지
     - 작성한 모든 리뷰를 관리할 수 있습니다.
     - '상세보기' 버튼을 클릭해 내가 작성한 리뷰 내용을 볼 수 있습니다.
     - 삭제 버튼을 통해 목록에서 제거할 수 있습니다.
-<br/><br/> 
+<br/><br/><br/><br/>
 
+
+    ![review](https://github.com/Irenda-Lee/matzipWithYou/blob/develop/figma/review%20edit%20%26%20write2.png)
+ - 리뷰 작성 페이지
+    - 상세 텍스트 입력 외에는 모두 버튼을 클릭하여 선택할 수 있습니다.
+        - 태그는 최소 3가지 이상 선택하여야 합니다.
+        - '나의 맛집'으로 등록 시 친구에게 공개되며, 미등록 선택 시 리뷰 관리 페이지에만 등록됩니다.
+        - '맛집 공개 설정'에서 숨긴 맛집 여부를 선택할 수 있으며, '비공개' 선택 시 나만 볼 수 있습니다. 
+    - '완료'를 클릭하여 리뷰를 등록할 수 있습니다.
+    <br/><br/><br/><br/>
+
+![pw_reset](https://github.com/Irenda-Lee/matzipWithYou/blob/develop/figma/pw_reset.jpg)
  - 비밀번호 변경 페이지
     - 회원가입 시 입력한 메일로 재설정 페이지가 전송됩니다.
-<br/><br/> 
+<br/><br/> <br/><br/>
 
+![admin](https://github.com/Irenda-Lee/matzipWithYou/blob/develop/figma/admin.jpg)
  - 관리자 페이지
     - 회원, 맛집, 태그, 음식 종류를 관리할 수 있습니다.
     - 표의 우측 상단에서 '추가하기' 버튼을 통해 새로운 항목을 입력할 수 있습니다.
     - 표의 우측에서 '삭제' 버튼을 통해 해당 항목을 삭제할 수 있습니다.
       
-<br/><br/> 
+<br/><br/> <br/><br/><br/><br/><br/><br/>
 
 # ERD(Entity Relationship Database)
 ![erd](https://github.com/Irenda-Lee/matzipWithYou/blob/develop/src/main/resources/static/IMG/ERD.png)
